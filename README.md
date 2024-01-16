@@ -15,9 +15,13 @@ The goal of our project is to clarify a research question:What are the preferenc
 
 ## 3.Dataset
 
+We chose to download all open access English journals published in 2023 from the Scopus database: Scopus. https://www.scopus.com/home.uri 
+
 ## 4.Tutorials
 
 ### (1) Collecting Data
+
+According to RQ, we chose to download all open access English journals published in 2023 from the Scopus database and classified under the Literature and literary theory category, a total of 1072 papers.It's worth noting that these papers are in pdf format now.
 
 ### (2) Analysing Data
 
