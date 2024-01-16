@@ -23,6 +23,14 @@ We chose to download the open access English journals published in 2023 from the
 
 According to RQ, we chose to download all open access English journals published in 2023 from the Scopus database and classified under the Literature and literary theory category, a total of 1072 papers.It's worth noting that these papers are in pdf format now.
 
-### (2) Analysing Data
+### (2) Scrape all the pdf journal articles into txt files
+### (3) Managing data
+
+After converting the open acess English papers downloaded from Scopus into txt format, we put the txt texts of articles with cited scores of 0-0.1, 01-0.3 and 0.3 or above all together to clean the text and achieve tokenization of the text.
+During this part spaCy is used for tokenization, or the segmentation of strings into individual words and punctuation markers. Tokenization enables spaCy to parse the grammatical structures of a text and identify characteristics of each word-like part-of-speech.
+
+### (4) Tokenize
+### (5) Language processing
+### (6) Analyze data 
 
 ## 5. Active Learning Exercises
