@@ -34,3 +34,5 @@ During this part spaCy is used for tokenization, or the segmentation of strings 
 ### (6) Analyze data 
 
 ## 5. Active Learning Exercises
+
+Apart from the above exercises, we could also use these texts to practice Sentiment Analysis, so that find out what kind of emotional bias do literature and literary theory journals in English generally possess in 2023.
