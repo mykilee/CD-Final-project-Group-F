@@ -15,7 +15,7 @@ The goal of our project is to clarify a research question:What are the preferenc
 
 ## 3.Dataset
 
-We chose to download all open access English journals published in 2023 from the Scopus database: Scopus. https://www.scopus.com/home.uri 
+We chose to download the open access English journals published in 2023 from the Scopus database: Scopus. https://www.scopus.com/home.uri 
 
 ## 4.Tutorials
 
