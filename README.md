@@ -29,9 +29,8 @@ According to RQ, we chose to download all open access English journals published
 After converting the open acess English papers downloaded from Scopus into txt format, we put the txt texts of articles with cited scores of 0-0.1, 01-0.3 and 0.3 or above all together to clean the text and achieve tokenization of the text.
 During this part spaCy is used for tokenization, or the segmentation of strings into individual words and punctuation markers. Tokenization enables spaCy to parse the grammatical structures of a text and identify characteristics of each word-like part-of-speech.
 
-### (4) Tokenize
-### (5) Language processing
-### (6) Analyze data 
+### (4) Language processing
+### (5) Analyze data 
 
 ## 5. Active Learning Exercises
 
