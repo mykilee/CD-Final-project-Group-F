@@ -8,4 +8,8 @@
 
 ## 4.Tutorials
 
+### (1) Collecting Data
+
+### (2) Analysing Data
+
 ## 5. Active Learning Exercises
