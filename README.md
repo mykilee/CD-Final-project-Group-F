@@ -38,4 +38,5 @@ Apart from the above exercises, we could also use these texts to practice Sentim
 
 ## Information instructions
 
+Due to the large size of our documents, we are unable to upload them all to GitHub. Therefore, we have linked the documents on OSF for your review. Thank you. 
 
