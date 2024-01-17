@@ -4,6 +4,10 @@ When we talk about humanities, literature and literary theories are always the f
 
 Therefore, in this final project, we focus on journal articles within the scope of Literature and Literary theory from the Scopus database. There is our research question: Analyze the trends and preferences in topic selection of English literature journals on Scopus in the year 2023.
 
+## Information instructions
+
+Due to the large size of our documents, we are unable to upload them all to GitHub. Therefore, we have linked the documents on OSF for your review: https://osf.io/x8mpc/      Thank you. 
+
 ## 1.Introduction and Background
 
 Our final group project looks into the preferences and trends in journal topic selection, specifically targeting English-language literary journal articles in the Literature category on Scopus for the year 2023. We downloaded all the open-source English-language literary journal articles from the official Scopus website and scraped the articles into txt documents. This document cleaning provides accurate and convenient text data for further subsequent data processing and analysis.
@@ -36,7 +40,4 @@ During this part spaCy is used for tokenization, or the segmentation of strings 
 
 Apart from the above exercises, we could also use these texts to practice Sentiment Analysis, so that find out what kind of emotional bias do literature and literary theory journals in English generally possess in 2023.
 
-## Information instructions
-
-Due to the large size of our documents, we are unable to upload them all to GitHub. Therefore, we have linked the documents on OSF for your review. Thank you. 
 
